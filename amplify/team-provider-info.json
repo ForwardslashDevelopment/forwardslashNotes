@@ -1,0 +1,41 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-forwardslashnotes-prod-142452-authRole",
+      "UnauthRoleArn": "arn:aws:iam::481697066520:role/amplify-forwardslashnotes-prod-142452-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::481697066520:role/amplify-forwardslashnotes-prod-142452-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-forwardslashnotes-prod-142452-deployment",
+      "UnauthRoleName": "amplify-forwardslashnotes-prod-142452-unauthRole",
+      "StackName": "amplify-forwardslashnotes-prod-142452",
+      "StackId": "arn:aws:cloudformation:us-east-1:481697066520:stack/amplify-forwardslashnotes-prod-142452/0f056300-f696-11ea-881c-12ae8fb95b53",
+      "AmplifyAppId": "dg2zapr66u5cv"
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-forwardslashnotes-test-142558-authRole",
+      "UnauthRoleArn": "arn:aws:iam::481697066520:role/amplify-forwardslashnotes-test-142558-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::481697066520:role/amplify-forwardslashnotes-test-142558-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-forwardslashnotes-test-142558-deployment",
+      "UnauthRoleName": "amplify-forwardslashnotes-test-142558-unauthRole",
+      "StackName": "amplify-forwardslashnotes-test-142558",
+      "StackId": "arn:aws:cloudformation:us-east-1:481697066520:stack/amplify-forwardslashnotes-test-142558/35bb0e00-f696-11ea-ab07-0a9564c9a859",
+      "AmplifyAppId": "dg2zapr66u5cv"
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-forwardslashnotes-dev-142711-authRole",
+      "UnauthRoleArn": "arn:aws:iam::481697066520:role/amplify-forwardslashnotes-dev-142711-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::481697066520:role/amplify-forwardslashnotes-dev-142711-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-forwardslashnotes-dev-142711-deployment",
+      "UnauthRoleName": "amplify-forwardslashnotes-dev-142711-unauthRole",
+      "StackName": "amplify-forwardslashnotes-dev-142711",
+      "StackId": "arn:aws:cloudformation:us-east-1:481697066520:stack/amplify-forwardslashnotes-dev-142711/61340d70-f696-11ea-a8d5-0ee1cf96ccc3",
+      "AmplifyAppId": "dg2zapr66u5cv"
+    }
+  }
+}
